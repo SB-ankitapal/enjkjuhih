@@ -4,6 +4,7 @@ x-stoplight:
 info:
   title: apiTest
   version: '1.0'
+  description: kjhvbmb
 servers:
   - url: 'http://localhost:3000'
 paths:
