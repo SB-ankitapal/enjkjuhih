@@ -7,7 +7,7 @@ stoplight-id: 03o6o996ox8ua
 
 Verisk Synergy Studio is a risk modeling platform wholly developed, operated, and delivered as a cloud-based 
 software as a service (SAAS) product. This platform unifies the core capabilities of industry-leading catastrophe management solutions Touchstone and Touchstone Re along with functionality from AnalyzeRe, Exposure Enterprise Management, and other Verisk applications into a single cloud-managed solution. The platform will be released 
-in multiple iterations, starting with a preview release in 2025 and a general availability release 
+in multiple iterations, starting wmm mith a preview release in 2025 and a general availability release 
 in 2026.jbhhj
 
 ## About Verisk Synergy Studio APIs
