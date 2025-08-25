@@ -12,7 +12,7 @@ in 2026.jbhhj
 
 ## About Verisk Synergy Studio APIs
 
-The Synergy Studio APIs are a set of RESTful endpoints that you can use to assess and manage the risks associated with catastrophic events. They enable you to harness the power of the Synergy Studio platform within your applications. You can
+The Synergy Studio APIs are a set of RESTful endpoints that you can use to assess and manage the risks associated with catastrophic events. They enable you to harness the power of the Synergy Studio platform within your applications. You canbhbh
 tap into the core elements of Synergy Studio and access our risk modeling platform in unique and 
 advanced ways.
 
