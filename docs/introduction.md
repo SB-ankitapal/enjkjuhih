@@ -20,7 +20,7 @@ advanced ways.
 
 This content is for informational reference only and provides insight into our progress toward the 
 Client Preview release. These APIs are being developed in phases and are subject to change, including URLs, names, and specifications. A finalized version, including the API Reference 
-and OpenAPI specification, will be shared upon release. We have organized this posting into two main categories including the: 
+and OpenAPI specification, will be shared upon release. We have organized this posting into two main categories including the: njjb
 
 - List of API functions
 - Technical documentation 
